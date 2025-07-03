@@ -40,7 +40,7 @@ Stack : **Next.js • Tailwind CSS**
 - 🌐 Portfolio : [bastienokonski.fr](https://bastienokonski.fr/)
 - 🎮 Itch.io : [laconiq.itch.io](https://laconiq.itch.io/)
 - 💼 LinkedIn : [Bastien Okonski](https://www.linkedin.com/in/bastien-okonski)
-- 🐦 Twitter/X : [@Laconiq](https://twitter.com/Laconiqq)
+- 🐦 Twitter/X : [@Laconiqq](https://twitter.com/Laconiqq)
 
 ---
 

@@ -1,7 +1,6 @@
 # 👋 Salut, moi c'est Bastien (Laconiq)
 
-Bienvenue sur mon profil GitHub ! Je suis **Game Designer** et **Développeur Unity**, passionné par la création de jeux qui mettent le **gameplay systémique** au cœur de l'expérience.  
-Je conçois des jeux avec une attention particulière portée à la mécanique, à la rejouabilité et au plaisir immédiat de jeu.  
+Curieux et passionné par tous les domaines du numérique, de la composition musicale au game design en passant par le développement C#. J’aime nourrir mes passions depuis plus de 10 ans de manière autodidacte et professionnelle.
 
 🎮 **Mes spécialités :**
 - Game Design centré sur le gameplay et les systèmes
